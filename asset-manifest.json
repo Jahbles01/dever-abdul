@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dever-abdul/static/css/main.ca81c81e.css",
+    "main.js": "/dever-abdul/static/js/main.bedb4bd8.js",
+    "static/media/me-about.jpeg": "/dever-abdul/static/media/me-about.ab29557d1ca732f9aa62.jpeg",
+    "static/media/MyResume.pdf": "/dever-abdul/static/media/MyResume.986750c077238c7466d2.pdf",
+    "static/media/me.png": "/dever-abdul/static/media/me.1a0616ead6e020d7e5d9.png",
+    "static/media/portfolio3.jpg": "/dever-abdul/static/media/portfolio3.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio2.jpg": "/dever-abdul/static/media/portfolio2.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/portfolio1.jpg": "/dever-abdul/static/media/portfolio1.f9edc4582e21a1443440.jpg",
+    "index.html": "/dever-abdul/index.html",
+    "main.ca81c81e.css.map": "/dever-abdul/static/css/main.ca81c81e.css.map",
+    "main.bedb4bd8.js.map": "/dever-abdul/static/js/main.bedb4bd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca81c81e.css",
+    "static/js/main.bedb4bd8.js"
+  ]
+}
