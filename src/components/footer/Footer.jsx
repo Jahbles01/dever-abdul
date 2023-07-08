@@ -7,7 +7,7 @@ import {FaLinkedin} from 'react-icons/fa';
 function Footer() {
   return (
     <footer>
-      <a href="#" className='footer__logo'>DevEr</a>
+      <a href="#header" className='footer__logo'>DevEr</a>
       <ul className="permalinks">
         <li><a href="#nav">Home</a></li>
         <li><a href="#about">About</a></li>
