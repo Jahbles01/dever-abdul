@@ -9,7 +9,7 @@ function Footer() {
     <footer>
       <a href="#header" className='footer__logo'>DevEr</a>
       <ul className="permalinks">
-        <li><a href="#nav">Home</a></li>
+        <li><a href="#header">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experiance">Experiance</a></li>
         <li><a href="#services">Services</a></li>
