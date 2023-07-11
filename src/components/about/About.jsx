@@ -21,7 +21,7 @@ function about() {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experiance</h5>
-              <small>5+ Years Working</small>
+              <small>3+ Years Working</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
@@ -31,7 +31,7 @@ function about() {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>50+ Projects</small>
+              <small>99+ Projects</small>
             </article>
           </div>
           <p>
