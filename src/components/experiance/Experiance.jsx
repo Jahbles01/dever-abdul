@@ -53,7 +53,7 @@ function Experiance() {
                 <small className="text-light">Experianced</small>
               </div>
             </article>
-          </div>
+          </div> 
         </div>
         <div className="experiance__backend">
           <h3>Backend Development</h3>
@@ -63,13 +63,6 @@ function Experiance() {
               <div>
                 <h4>PHP</h4>
                 <small className="text-light">Experianced</small>
-              </div>
-            </article>
-            <article className="experiance__details">
-              <BsFillPatchCheckFill className="experiance__details-icon"/>
-              <div>
-                <h4>NodeJs</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experiance__details">
@@ -90,20 +83,6 @@ function Experiance() {
               <BsFillPatchCheckFill className="experiance__details-icon"/>
               <div>
                 <h4>MangoDB</h4>
-                <small className="text-light">Experianced</small>
-              </div>
-            </article>
-            <article className="experiance__details">
-              <BsFillPatchCheckFill className="experiance__details-icon"/>
-              <div>
-                <h4>Laravel</h4>
-                <small className="text-light">Experianced</small>
-              </div>
-            </article>
-            <article className="experiance__details">
-              <BsFillPatchCheckFill className="experiance__details-icon"/>
-              <div>
-                <h4>NextJs</h4>
                 <small className="text-light">Experianced</small>
               </div>
             </article>
